@@ -1,6 +1,4 @@
-# Loan-Defaulter-Prediction
-
-## Loan Defaulter Prediction
+# Loan Defaulter Prediction
 
 This project aims to provide optimal solutions to a bank by cautioning against the risks associated with loan approvals for businesses. It involves exploratory data analysis, data cleaning, feature engineering, and the application of classification models to predict loan defaulters. The project achieves a 92% accuracy rate in predictions.
 
