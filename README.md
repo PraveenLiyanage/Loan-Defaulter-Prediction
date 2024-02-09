@@ -2,6 +2,11 @@
 
 This project aims to provide optimal solutions to a bank by cautioning against the risks associated with loan approvals for businesses. It involves exploratory data analysis, data cleaning, feature engineering, and the application of classification models to predict loan defaulters. The project achieves a 92% accuracy rate in predictions.
 
+### Project Interfaces
+<img width="1440" alt="Screenshot 2024-02-06 at 15 30 13" src="https://github.com/PraveenLiyanage/Loan-Defaulter-Prediction/assets/111709030/65d1320a-0ece-4484-8c98-c468a2d8a88e">
+<img width="1440" alt="Screenshot 2024-02-06 at 15 36 20" src="https://github.com/PraveenLiyanage/Loan-Defaulter-Prediction/assets/111709030/76df717a-20ee-4dd5-8c64-077a285b7b04">
+<img width="1440" alt="Screenshot 2024-02-06 at 15 37 49" src="https://github.com/PraveenLiyanage/Loan-Defaulter-Prediction/assets/111709030/e4b6b2f5-c459-480b-b23c-c5659e1203be">
+
 ### Project Overview
 
 The project encompasses the following steps:
